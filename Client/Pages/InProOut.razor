@@ -1,0 +1,32 @@
+﻿@page "/ipo"
+<h3>InProOut</h3>
+
+<p>Input</p>
+
+<input @bind="InputString " />
+
+<button class="btn btn-primary" @onclick="DoProcessing">Do it</button>
+
+<p>Output: @OutputString </p>
+
+@code
+
+{
+
+    private string InputString { get; set; }
+
+    private string OutputString { get; set; }
+
+    private void DoProcessing()
+
+    {
+
+        double num = double.Parse(InputString);
+
+        num = num * 2;
+
+        OutputString = num.ToString();
+
+    }
+
+}
