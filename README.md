@@ -1,2 +1,3 @@
-![GHSCREEN](https://user-images.githubusercontent.com/90016672/133708953-3d2be7f2-a67a-40b9-a556-81e6ae2ae0f0.jpg)
-Added the two comments to this file: https://github.com/TylerGoldenHart/Tutorial4-1/blob/main/Client/Pages/Index.razor
+![TUT5](https://user-images.githubusercontent.com/90016672/134604632-f5b45fa7-181b-44f8-920d-9ac5ce2061bc.jpg)
+Added the two comments to this file: https://github.com/TylerGoldenHart/Tutorial5/blob/main/Client/Pages/InProOut.razor
+https://thankful-desert-0248b8b0f.azurestaticapps.net/InProOut
